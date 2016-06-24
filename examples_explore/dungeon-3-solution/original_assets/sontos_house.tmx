@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="tileset_sontos_house" tilewidth="16" tileheight="16">
+  <image source="../art/tileset_sontos_house.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="257" name="collision_graphic" tilewidth="16" tileheight="16">
+  <image source="collision_graphic.png" width="32" height="32"/>
+ </tileset>
+ <layer name="0-background" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2D1Lw0AAgOHr5CyCo1IFR6X1Y5X60b1+/ABxcBZ/QVH83V7oHY1wtg6xqc0jPOROHM68XMilF0LoAQAAANC4fnSQrv3CPI+31mCtm243GkTDdB0U5nn8sgbr3TT9mqrFUTSKrtJ1VJjnsR7Nynshq1pcLOixF+2n8bMejXoK872QVS3G0SS6S9dJbX4cnaQWejTfI++FbFy719lbbVz1uEx/O9Sj8R55L2SlBnXVz3WYP7/0aLZH6Z4vcp/k55cef9fjpz2xiB5/12OZUi892utR6qLHansse4Z9rsH/sSlef9FjUSMtmjeN3qOP5D3ZTvd8p/a7jxotVqcfHYbZN9yDNG57TV31FGbfsU6js+g8+I7bpmmYnb2rM/hNdJvmba+ry6qzd3UGf4ge07ztNXVZ6V2q7TV1Wenc0faaumwavr/vercFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOC/+ALRLX3g
+  </data>
+ </layer>
+ <layer name="1-detail" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt0btOFVEYhuFdiiaQWKHcAIcbALwHtDJCCEIoQDxbGJWjoVBAe09oq3fpt8NsAzuDCcWeJc7zJG8xa63iz/ydDgAAAACDtlh6AM54VHoA/njYOdnH4+p7OI2UG6cVXqXX6U3N3WbaStt959cGPVSLvU8H6bDm7ih9SB9PnXV3MdbAXG3Vv4+76Wf6lb6mb+m4uuvtYqrhGdvkU/qcvnROdvE3vV3cGvRQLdX9/3PpdrpTnV1JQ1VX+953dzGdZtJsQzO2zVK6n5ar79F0o+pmzft7aT4tNDFcCz1JT9Oz6ns8TVRN1rxfTw/SRiPTtc9O2k17heeAy+57+lF6iP/Y2wu83T8VQGkr55yvNToFPfbxb+nuY7Um+yjjeXrRd/YyvSswC2ddLz0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABc0G/VliN0
+  </data>
+ </layer>
+ <layer name="2-collision" width="100" height="100" opacity="0.73">
+  <data encoding="base64" compression="zlib">
+   eJzt2EEOhCAQBED9/6f3tFljgI0whj5UJR7l0C0M8TgAAAAAALKc5+9hr2sH+qgzyrL1/bf2gz7q9LK8dvHvXNJHnSe5j9agxuw8XumPvm+WT7PVxzv0kWW2j9YarKvIUh91Vmb57Pv09e6798wr7sWssQcy3HvQy176yGJeZPHfMIs+sozuu+xjjmexLwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg1wcfpwDX
+  </data>
+ </layer>
+ <layer name="3-background" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt0bEJgDAQhtHM4KgWGU+dQDOSB6lsLTwS34OvPPjhSgEAAAAAAABgFFu0R0fyDrozuqKWPQQmUrMHTGh9eecX31uyB/DgHwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwbzeQGQYt
+  </data>
+ </layer>
+ <layer name="4-detail" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt0UENADAMA7GMwviD7bsIok02gpMuAQAAAAAAAAAAoO22A1j8AADgZ6cdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwgAGTYwAm
+  </data>
+ </layer>
+ <layer name="5-collision" width="100" height="100" opacity="0.76">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1lC6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAbnEAAAQ==
+  </data>
+ </layer>
+</map>
